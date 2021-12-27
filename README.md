@@ -1,3 +1,5 @@
+- https://github.com/KittyGiraudel/SJSJ
+
 ![Logo SJSJ](/assets/images/logo.png)
 
 _Simplified JavaScript Jargon_ (short _SJSJ_) is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words. The idea is not to replace individual documentations, but to act as some kind of glossary that can be easily referenced.
